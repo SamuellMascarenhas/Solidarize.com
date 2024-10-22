@@ -61,5 +61,6 @@ Este projeto está licenciado sob a MIT License.
 Para perguntas ou sugestões, entre em contato com a equipe do Solidarize.com: 
 
 - Email: samuelmascarenhascontato@gmail.com
+- Solidarize: contatosolidarize@gmail.com
 
 # Junte-se a nós nesta jornada de transformação social! A sua contribuição pode fazer a diferença!
